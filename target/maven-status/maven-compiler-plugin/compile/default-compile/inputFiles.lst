@@ -4,6 +4,7 @@
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/in/web/TransactionController.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/domain/service/PredictionStrategy.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/domain/model/ActionableInsight.java
+/home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/application/exception/DuplicateTransactionException.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/in/web/InputDTOs.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/application/port/in/GenerateInsightUseCase.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/in/web/InsightController.java

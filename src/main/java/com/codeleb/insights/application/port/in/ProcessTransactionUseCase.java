@@ -1,10 +1,18 @@
 package com.codeleb.insights.application.port.in;
 
+import com.codeleb.insights.domain.model.Transaction;
+
 /**
- * Purpose: Inbound port defining the use case for processing a new transaction.
- * Design Patterns: Port (Hexagonal Architecture), Command Pattern interface.
- * Expected Inputs/Outputs: Takes transaction command/DTO, returns processing result.
- * Strict Constraints: Pure Java interface. No Spring @RestController or HTTP-specific classes.
+ * Inbound Port: Contract for receiving and processing customer transactions
+ * safely.
  */
 public interface ProcessTransactionUseCase {
+
+    /**
+     * Attempts to elegantly process the transaction.
+     * Enforces Idempotency to prevent duplication.
+     * 
+     * @param transaction The validated Domain Record
+     */
+    void processTransaction(Transaction transaction);
 }

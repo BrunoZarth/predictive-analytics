@@ -2,6 +2,7 @@ com/codeleb/insights/domain/exception/BusinessRuleViolationException.class
 com/codeleb/insights/application/port/out/LoadTransactionPort.class
 com/codeleb/insights/application/port/in/GenerateInsightUseCase.class
 com/codeleb/insights/adapter/in/web/TransactionController.class
+com/codeleb/insights/application/exception/DuplicateTransactionException.class
 com/codeleb/insights/config/BeanConfiguration.class
 com/codeleb/insights/domain/service/PredictionStrategy.class
 com/codeleb/insights/adapter/out/persistence/TransactionPersistenceAdapter.class
