@@ -1,10 +1,19 @@
 package com.codeleb.insights.application.port.in;
 
+import com.codeleb.insights.domain.model.ActionableInsight;
+
+import java.util.List;
+
 /**
- * Purpose: Inbound port defining the use case for generating insights from processed data.
- * Design Patterns: Port (Hexagonal Architecture).
- * Expected Inputs/Outputs: Request parameters for insights, returns list of ActionableInsights.
- * Strict Constraints: Pure Java interface. Framework agnostic.
+ * Inbound Port: Contract for generating insights for a specific tenant.
  */
 public interface GenerateInsightUseCase {
+
+    /**
+     * Executes predictive strategies specifically bounded by customerId.
+     * 
+     * @param customerId The multi-tenant isolation key
+     * @return List of generated ActionableInsights for this customer
+     */
+    List<ActionableInsight> generateForCustomer(String customerId);
 }
