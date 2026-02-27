@@ -1,0 +1,5 @@
+com/codeleb/insights/domain/service/MovingAverageStrategyTest.class
+com/codeleb/insights/application/service/TransactionFacadeServiceTest.class
+com/codeleb/insights/domain/model/TransactionTest.class
+com/codeleb/insights/architecture/ArchitectureEnforcementTest.class
+com/codeleb/insights/domain/model/ActionableInsightTest.class
