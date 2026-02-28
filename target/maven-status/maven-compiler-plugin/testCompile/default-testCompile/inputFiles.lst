@@ -1,5 +1,7 @@
+/home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/adapter/out/persistence/TransactionJpaAdapterTest.java
 /home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/domain/service/MovingAverageStrategyTest.java
 /home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/architecture/ArchitectureEnforcementTest.java
 /home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/domain/model/ActionableInsightTest.java
 /home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/application/service/TransactionFacadeServiceTest.java
+/home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/adapter/in/web/TransactionControllerTest.java
 /home/bzpc/github/predictive-analytics/src/test/java/com/codeleb/insights/domain/model/TransactionTest.java
