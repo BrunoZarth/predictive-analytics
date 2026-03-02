@@ -15,6 +15,7 @@ com/codeleb/insights/adapter/in/web/GlobalExceptionHandler.class
 com/codeleb/insights/adapter/out/persistence/TransactionJpaAdapter.class
 com/codeleb/insights/adapter/in/web/TransactionRequest.class
 com/codeleb/insights/adapter/out/persistence/TransactionMapperImpl.class
+com/codeleb/insights/config/UseCaseConfig.class
 com/codeleb/insights/application/port/in/GenerateInsightUseCase.class
 com/codeleb/insights/config/BeanConfiguration.class
 com/codeleb/insights/adapter/out/persistence/TransactionJpaRepository.class

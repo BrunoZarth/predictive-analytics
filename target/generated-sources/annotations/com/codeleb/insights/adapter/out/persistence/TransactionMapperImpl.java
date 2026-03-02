@@ -7,7 +7,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2026-02-27T14:23:20-0300",
+    date = "2026-02-27T23:39:32-0300",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.9 (GraalVM Community)"
 )
 public class TransactionMapperImpl implements TransactionMapper {
