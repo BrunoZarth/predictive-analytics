@@ -12,6 +12,7 @@
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/out/persistence/JpaTransactionRepository.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/in/web/TransactionRequest.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/out/persistence/TransactionPersistenceAdapter.java
+/home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/config/UseCaseConfig.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/in/web/TransactionController.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/domain/model/ActionableInsight.java
 /home/bzpc/github/predictive-analytics/src/main/java/com/codeleb/insights/adapter/out/persistence/TransactionJpaAdapter.java
